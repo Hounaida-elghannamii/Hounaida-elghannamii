@@ -10,6 +10,5 @@
 
 ##### -👨🏻‍🎓 Second-year student in Computer and Mobile Systems master's degree at Faculty of Science and Technology Tangier.
 ##### -🔭 I'm Mobile and Full-Stack developer.
-##### -⚡ I like taking on challenges and working on projects that push me beyond of my comfort zone,
-##### as well as continuing to learn new languages and development techniques.
+##### -⚡ I like taking on challenges and working on projects that push me beyond of my comfort zone,as well as continuing to learn new languages and development techniques.
 
