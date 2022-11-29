@@ -4,11 +4,11 @@
   </p>
   <img src="https://img.freepik.com/vecteurs-libre/illustration-concept-conception-interaction_114360-1442.jpg?w=740&t=st=1669754518~exp=1669755118~hmac=597b5b2043df8c34de457b141bf0a73a122c3dfd396fc6ce8e040f7089c7c06f" align="right" width="25%"/>
   
-### About Me :
-#### My name is El ghannami Hounaida, and I'm 23 yo Master's Degree Student :
+# 👩🏻‍🦰 About Me :
+### My name's El ghannami Hounaida, and I'm 23 yo Master's Degree Student :
 
-##### -👨🏻‍🎓 Master's Degree Student student in computer and mobile systems master's degree at Faculty of Science and Technology Tangier.
-##### -🔭 I'm Mobile and Full-Stack developer
+##### -👨🏻‍🎓 Second-year student in Computer and Mobile Systems master's degree at Faculty of Science and Technology Tangier.
+##### -🔭 I'm Mobile and Full-Stack developer.
 ##### -⚡ I like taking on challenges and working on projects that push me beyond of my comfort zone,
 ##### as well as continuing to learn new languages and development techniques.
 
