@@ -8,7 +8,7 @@
 #### My name is El ghannami Hounaida, and I'm 23 yo Master's Degree Student :
 
 ###### -👨🏻‍🎓 Master's Degree Student student in computer and mobile systems master's degree at Faculty of Science and Technology Tangier.
-# -🔭 I'm Mobile and Full-Stack developer
-# -⚡ I like taking on challenges and working on projects that push me beyond of my comfort zone,
-# as well as continuing to learn new languages and development techniques.
+###### -🔭 I'm Mobile and Full-Stack developer
+###### -⚡ I like taking on challenges and working on projects that push me beyond of my comfort zone,
+###### as well as continuing to learn new languages and development techniques.
 
