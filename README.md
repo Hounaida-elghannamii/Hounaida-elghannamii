@@ -3,8 +3,7 @@
   <a href="https://www.linkedin.com/in/el-ghannami-hounaida-a35202216/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="3%"/></a>
   
   </p>
-  <img src="![2778464-removebg-preview](https://user-images.githubusercontent.com/114807981/204642541-a5e15d69-d1a9-478c-9232-6eaee571b57f.png)
-" align="right" width="25%"/>
+  <img src="https://img.freepik.com/vecteurs-libre/illustration-concept-conception-interaction_114360-1442.jpg?w=740&t=st=1669754518~exp=1669755118~hmac=597b5b2043df8c34de457b141bf0a73a122c3dfd396fc6ce8e040f7089c7c06f" align="right" width="25%"/>
   
 
 
